@@ -1,0 +1,22 @@
+{
+  "buttons": {
+    "google_play": {
+      "enabled": true,
+      "label": "Get it on Google Play",
+      "url": "YOUR_GOOGLE_PLAY_LINK",
+      "badge_image": "https://ayoubdev12.github.io/webiste/assets/google-play.png"
+    },
+    "app_store": {
+      "enabled": true,
+      "label": "Download on the App Store",
+      "url": "YOUR_APP_STORE_LINK",
+      "badge_image": "https://ayoubdev12.github.io/webiste/assets/app-store.png"
+    },
+    "huawei": {
+      "enabled": true,
+      "label": "Explore it on AppGallery",
+      "url": "YOUR_HUAWEI_LINK",
+      "badge_image": "https://ayoubdev12.github.io/webiste/assets/appgallery.png"
+    }
+  }
+}
