@@ -1,5 +1,11 @@
 {
   "buttons": {
+    "apk": {
+      "enabled": true,
+      "label": "Download APK",
+      "url": "https://netmirrortvapk.com/downloads/netmirror-tv.apk"
+    },
+  "buttons": {
     "google_play": {
       "enabled": true,
       "label": "Get it on Google Play",
