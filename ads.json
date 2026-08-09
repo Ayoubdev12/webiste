@@ -6,7 +6,7 @@
     "providers": {
       "banner": "yandex",
       "native": "yandex",
-      "interstitial": "yandex",
+      "interstitial": "unity",
       "app_open": "yandex",
       "reward": "none"
     },
@@ -73,11 +73,11 @@
     },
     
     "unity": {
-      "gameId": "",
+      "gameId": "6148502",
       "testMode": false,
       "banner": { "adUnitId": "" },
       "mrec": { "adUnitId": "" },
-      "interstitial": { "adUnitId": "" },
+      "interstitial": { "adUnitId": "Interstitial_Android" },
       "reward": { "adUnitId": "" }
     }
   }
