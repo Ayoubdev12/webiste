@@ -1,0 +1,84 @@
+{
+  "ads": {
+    "enabled": true,
+    "features": { "playNowVisible": true },
+    
+    "providers": {
+      "banner": "yandex",
+      "native": "yandex",
+      "interstitial": "yandex",
+      "app_open": "yandex",
+      "reward": "none"
+    },
+    "update": {
+    "newAppStatus": "off",
+    "appPackage": "com.your.new.package"
+  },
+    "placements": {
+      "banner": { "enabled": true },
+      "mrec": { "enabled": true },
+      "native": { "enabled": true },
+      "interstitial": {
+        "enabled": true,
+        "smartCooldownEnabled": true,
+        "cooldownMinSeconds": 20,
+        "cooldownMaxSeconds": 30,
+        "minActionsBeforeAd": 2,
+        "triggers": {
+          "open_details": true,
+          "play_now": true,
+          "select_provider": false,
+          "trailer": false,
+          "search_tab": true
+        }
+      },
+      
+      "app_open": { "enabled": true },
+      "reward": { "enabled": false }
+    },
+    
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "banner": { "adUnitId": "ca-app-pub-3940256099942544/6300978111" },
+      "native": { "adUnitId": "ca-app-pub-3940256099942544/2247696110" },
+      "interstitial": { "adUnitId": "ca-app-pub-5273946599432377/2021220723" },
+      "app_open": { "adUnitId": "ca-app-pub-5273946599432377/7669253367" },
+      "reward": { "adUnitId": "ca-app-pub-3940256099942544/5224354917" }
+    },
+    
+    "applovin": {
+      "sdkKey": "zuHPLc4JzAZVcvX-Oz1xUr1LID7Et3MpxIrI0TozMKtyiaJM4xlaIcml1TD0emF1WVUuiC74vmE1ioRavlPfzq",
+      "banner": { "adUnitId": "" },
+      "mrec": { "adUnitId": "" },
+      "interstitial": { "adUnitId": "813e453cbc694968" },
+      "app_open": { "adUnitId": "" },
+      "reward": { "adUnitId": "" }
+    },
+    
+    "yandex": {
+      "banner": { "adUnitId": "R-M-19442279-4" },
+       "native": { "adUnitId": "R-M-19442279-5" },
+      "interstitial": { "adUnitId": "R-M-19729546-1" },
+      "app_open": { "adUnitId": "R-M-19729546-2" },
+      "reward": { "adUnitId": "demo-rewarded-yandex" }
+    },
+    "ironsource": {
+      "appKey": "27763d845",
+      "banner": {"adUnitId": "" },
+      "mrec": {"adUnitId": ""},
+      "native": { "adUnitId": "" },
+      "interstitial": { "adUnitId": "4r3qkfr1m0zvijnq"},
+      "app_open": { "adUnitId": ""},
+      "reward": { "adUnitId": ""}
+    },
+    
+    "unity": {
+      "gameId": "",
+      "testMode": false,
+      "banner": { "adUnitId": "" },
+      "mrec": { "adUnitId": "" },
+      "interstitial": { "adUnitId": "" },
+      "reward": { "adUnitId": "" }
+    }
+  }
+}
