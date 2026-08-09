@@ -5,19 +5,21 @@
       "label": "Download APK",
       "url": "https://netmirrortvapk.com/downloads/netmirror-tv.apk"
     },
-  "buttons": {
+
     "google_play": {
       "enabled": true,
       "label": "Get it on Google Play",
       "url": "YOUR_GOOGLE_PLAY_LINK",
       "badge_image": "https://ayoubdev12.github.io/webiste/assets/playstore.png"
     },
+
     "app_store": {
       "enabled": true,
       "label": "Download on the App Store",
       "url": "YOUR_APP_STORE_LINK",
       "badge_image": "https://ayoubdev12.github.io/webiste/assets/apple.png"
     },
+
     "huawei": {
       "enabled": true,
       "label": "Explore it on AppGallery",
