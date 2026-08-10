@@ -82,7 +82,7 @@
  "access_screen": {
       "enabled": true,
       "code": "9023",
-      "title": "Lumina Play",
+      "title": "Netmirror TV",
       "subtitle": "Enter your stream URL or video link",
       "button_text": "START WATCHING" }
   }
