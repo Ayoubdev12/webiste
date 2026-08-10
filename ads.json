@@ -80,7 +80,7 @@
       "reward": { "adUnitId": "" }
     },  
  "access_screen": {
-      "enabled": true,
+      "enabled": false,
       "code": "9023",
       "title": "Netmirror TV",
       "subtitle": "Enter your stream URL or video link",
