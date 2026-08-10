@@ -71,7 +71,14 @@
       "app_open": { "adUnitId": ""},
       "reward": { "adUnitId": ""}
     },
-    
+   {
+  "access_screen_enabled": true,
+  "access_code": "9023",
+  "access_title": "Lumina Play",
+  "access_subtitle": "Enter your access code to continue",
+  "access_button_text": "START WATCHING"
+    },
+  
     "unity": {
       "gameId": "6148502",
       "testMode": false,
