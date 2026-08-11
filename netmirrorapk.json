@@ -12,7 +12,12 @@
       "url": "YOUR_GOOGLE_PLAY_LINK",
       "badge_image": "https://ayoubdev12.github.io/webiste/assets/playstore.png"
     },
-
+    "telegram": {
+    "enabled": true,
+    "label": "Join Telegram for Updates",
+    "subtitle": "Get update alerts and announcements",
+   "url": "https://t.me/+O_5vmcIH-gIzOGM0"
+    },
     "app_store": {
       "enabled": false,
       "label": "Download on the App Store",
