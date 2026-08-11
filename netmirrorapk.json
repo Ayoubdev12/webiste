@@ -7,7 +7,7 @@
     },
 
     "google_play": {
-      "enabled": true,
+      "enabled": false,
       "label": "Get it on Google Play",
       "url": "YOUR_GOOGLE_PLAY_LINK",
       "badge_image": "https://ayoubdev12.github.io/webiste/assets/playstore.png"
